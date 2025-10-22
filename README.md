@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![istockphoto-2200128716-1024x1024](https://github.com/user-attachments/assets/9299b37b-c0ca-44e7-b334-8e325b38fdb0)" alt="Kevin Mills Banner">
+  <img src="https://github.com/user-attachments/assets/9299b37b-c0ca-44e7-b334-8e325b38fdb0" alt="Kevin Mills Banner">
 </p>
 
 <p align="center">
@@ -102,3 +102,4 @@ University of Cincinnati | Cincinnati, OH | Aug 2013 – Apr 2017
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyPebbles&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </details>
+
